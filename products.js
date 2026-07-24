@@ -280,7 +280,9 @@ Product size: 282.00×97.00×17.25mm/11.1×3.82×0.68inch.
 Made in China`,
     stock: 18,
     badge: "Free Gift"
-  }  
+  },
+
+   
    
 ];
 

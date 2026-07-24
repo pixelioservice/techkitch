@@ -282,7 +282,103 @@ Made in China`,
     badge: "Free Gift"
   },
 
-   
+ {
+    id: 11,
+    name: "GearUP WM30 Transparent Crystal 2.4G + Bluetooth Magnetic Wireless Mouse- Gray Color",
+    category: "Mouse",
+    price: 920.00,
+    oldPrice: 1200,
+    images: [
+      "https://i.imgur.com/c1YvuPQ.png",
+      "https://i.imgur.com/hU9JXMh.png",
+      "https://i.imgur.com/my2vcM1.png",
+      "https://i.imgur.com/CwYgWA6.png"
+    ],
+    description: `Brand: GearUP.
+Model: WM30.
+Features: Transparent body with a clear view of internal components, Ergonomic design with textured grip for comfortable use, Connect to up to 3 devices at the same time, Long battery life, Type-C charging port.
+Product Material: ABS.
+Product Weight: 76±5g.
+Working Mode: 2.4G + BT1 + BT2.
+Operating Current: 30mA.
+Battery Capacity: 400mAh.
+DPI: 800-1200-1600-2400.
+Mouse Size: L113 * W57 * H25mm.`,
+    stock: 13,
+    badge: "Hot"
+  },
+
+   {
+    id: 12,
+    name: "Inphic F1 2.4G Rechargeable Wireless Mouse",
+    category: "mouse",
+    price: 1000.00,
+    oldPrice: 0,
+    images: [
+      "https://i.imgur.com/pi5Vqrm.png",
+      "https://i.imgur.com/4mvxmEa.png",
+      "https://i.imgur.com/PtUkDgN.png"
+    ],
+    description: `Brand: Inphic.
+Model: F1 (2.4G Version).
+Connectivity: 2.4GHz Wireless (via USB Nano Receiver).
+Battery Capacity: 500mAh (Rechargeable).
+DPI Levels: 800 / 1200 / 1600.
+Number of Keys: 6 Buttons (Left, Right, Scroll, DPI, Forward, Backward).
+Dimensions: 120 x 76.5 x 40 mm.
+Weight: ~95g.
+Charging Interface: Micro-USB / USB-C (varies by production year).
+Benefits & Usability: Eco-Friendly & Economical, No More “Low Battery” Anxiety with top-mounted power lights, Ergonomic shape for natural hand position, High Efficiency with side buttons (Forward/Back).`,
+    stock: 8,
+    badge: "new"
+  },
+
+{
+    id: 13,
+    name: "AULA AM205 Wireless USB Mouse — 2.4 GHz Compact Optical Mouse with Adjustable DPI (Black)",
+    category: "mouse",
+    price: 700.00,
+    oldPrice: 800,
+    images: [
+      "https://i.imgur.com/ywjDe67.png",
+      "https://i.imgur.com/Xl6aw5Q.png",
+      "https://i.imgur.com/sM13oyu.png",
+      "https://i.imgur.com/Oo5UbUP.png"
+    ],
+    description: `Brand: AULA.
+Model: AM205 Wireless Mouse.
+Connection: Wireless 2.4 GHz via USB dongle.
+Buttons: 4 (Left, Right, Scroll, DPI).
+DPI Levels: 800 / 1200 / 1600.
+Wireless Range: Up to ~10 meters.
+Sensor Type: Optical.`,
+    stock: 13,
+    badge: "Budget"
+  },
+
+   {
+    id: 14,
+    name: "32-in-1 Multi-Functional Cleaning Kit – White",
+    category: "accessories",
+    price: 1000.00,
+    oldPrice: 1500,
+    images: [
+      "https://i.imgur.com/NeeGbFX.png",
+      "https://i.imgur.com/g15ahm3.png",
+      "https://i.imgur.com/EbcGOBO.png",
+      "https://i.imgur.com/z8Tzfwq.png"
+    ],
+    description: `Material: Plastic.
+Color: White.
+Features: SD card storage slot, 7 days replacement warranty.
+Product Size: 5.5 x 5.5 x 13.2cm.
+32 Types Of Kit Included:
+1. Storage body, 2. SD card storage slot, 3. SD card storage slot, 4. Game card storage slot, 5. Keyboard brush, 6. Screen cleaning cloth, 7. Screen cleaner (no liquid), 8. Capacitive pen, 9. Tweezers, 10. Extension pole, 11. Hook shaped head (charging port cleaning), 12. Mobile phone speaker hole cleaning brush, 13. Small soft bristled brush, 14. Small hard bristle brush, 15. Type-C mobile phone charging port cleaner, 16. Type-C Data Cable Cleaner, 17. Charging port cleaner for iPhone, 18. Data cable cleaner for iPhone, 19. CMOS cleaning stick, 20. Gap knife (for removing dirt from gaps), 21. Keyboard Puller, 22. Bluetooth earphone charging case flat head brush, 23. Side dust scraper, 24. Camera lens cleaning, 25. Small bend brush, 26. Retrieve card pin, 27. Bluetooth earphone charging case pointed brush, 28. Soft bristled short brush, 29. Cleaning sponge head for Bluetooth earphone charging case, 30. Earphone brush, 31. Clean pen tip, 32. Key puller.`,
+    stock: 20,
+    badge: "hot"
+  },
+
+
    
 ];
 

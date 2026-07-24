@@ -1,5 +1,5 @@
 /* ============================================================
-   TECHKITCH — MOBILE NAV (shared across secondary pages)
+   TECHKITCH — HEADER NAV DROPDOWN (shared across all pages)
    ============================================================ */
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -12,12 +12,29 @@ document.addEventListener("DOMContentLoaded", () => {
     toggle.classList.remove("nav-toggle--active");
   };
 
-  toggle.addEventListener("click", () => {
-    nav.classList.toggle("nav--open");
-    toggle.classList.toggle("nav-toggle--active");
+  toggle.addEventListener("click", (e) => {
+    e.stopPropagation();
+    const isOpen = nav.classList.contains("nav--open");
+    if (isOpen) {
+      closeNav();
+    } else {
+      nav.classList.add("nav--open");
+      toggle.classList.add("nav-toggle--active");
+    }
   });
 
-  nav.querySelectorAll("a").forEach((link) => link.addEventListener("click", closeNav));
+  nav.querySelectorAll("a").forEach((link) => {
+    link.addEventListener("click", () => {
+      closeNav();
+    });
+  });
+
+  document.addEventListener("click", (e) => {
+    if (!e.target.closest(".menu-dropdown-wrapper")) {
+      closeNav();
+    }
+  });
+
   document.addEventListener("keydown", (e) => {
     if (e.key === "Escape") closeNav();
   });

@@ -66,15 +66,22 @@
 <header class="site-header">
   <div class="container header-inner">
     <a href="index.html" class="logo"><span class="tk-tech">Tech</span><span class="tk-kitch">Kitch</span></a>
-    <button class="nav-toggle js-nav-toggle" aria-label="Toggle menu"><span></span></button>
-    <nav class="nav js-nav">
-      <a href="index.html">Shop</a>
-      <a href="index.html#shop">Categories</a>
-      <a href="about.html">About</a>
-      <a href="contact.html">Contact</a>
-      <a href="cart.html" class="js-open-cart">Cart</a>
-    </nav>
     <div class="header-actions">
+      <div class="menu-dropdown-wrapper">
+        <button class="icon-btn menu-dots-btn js-nav-toggle" aria-label="Menu options" title="Menu" type="button">
+          <svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20">
+            <circle cx="12" cy="5" r="2.2"/>
+            <circle cx="12" cy="12" r="2.2"/>
+            <circle cx="12" cy="19" r="2.2"/>
+          </svg>
+        </button>
+        <nav class="nav js-nav">
+          <a href="index.html">Shop</a>
+          <a href="index.html#shop">Categories</a>
+          <a href="about.html">About</a>
+          <a href="contact.html">Contact</a>
+        </nav>
+      </div>
       <a href="cart.html" class="icon-btn js-open-cart" aria-label="Open cart">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 6h15l-1.5 9h-12z"/><path d="M6 6L5 3H2"/><circle cx="9" cy="20" r="1.5"/><circle cx="18" cy="20" r="1.5"/></svg>
         <span class="cart-badge js-cart-count">0</span>

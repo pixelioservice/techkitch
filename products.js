@@ -217,7 +217,38 @@ Mouse Buttons: 3 (Left, Right, Scroll).
 Connection: USB 2.0 wired`,
     stock: 10,
     badge: "Combo"
-  }
+  },
+
+{
+    id: 9,
+    name: "GearUP Rounded Side Design Router Stand (Gray Colour)",
+    category: "acessories",
+    price: 350.00,
+    oldPrice: 480,
+    images: [
+      "https://i.imgur.com/KfHc8zE.png",
+      "https://i.imgur.com/vtnszE6.png",
+      "https://i.imgur.com/MMpz7zo.png"
+    ],
+    description: `Product Name: GearUP Rounded Side Design Router Stand.
+Brand: GearUP.
+Design: Rounded Side, Modern Aesthetic.
+Material: High-Quality Engineered Wood (MDF).
+Finish: Smooth Laminate.
+Color: Classic White.
+Overall Dimensions (L x W x H): 30 cm x 18 cm x 22 cm (Approx. 11.8 x 7.1 x 8.7 inches).
+Shelf Dimensions (Top): 30 cm x 18 cm (Approx. 11.8 x 7.1 inches).
+Shelf Spacing (Clearance): Approx. 18 cm (7.1 inches).
+Weight: Approx. 1.8 kg (4 lbs).
+Assembly Required: Yes, minimal assembly.
+Cable Management: Integrated slots/openings.
+Ventilation: Open-shelf design for optimal airflow.
+Compatibility: Most standard Wi-Fi routers, modems, small set-top boxes, etc.`,
+    stock: 13
+  },
+
+   
+   
 ];
 
 /* Store settings */

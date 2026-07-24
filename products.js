@@ -247,7 +247,40 @@ Compatibility: Most standard Wi-Fi routers, modems, small set-top boxes, etc.`,
     stock: 13
   },
 
-   
+ {
+    id: 10,
+    name: "GearUP B023 Rechargeable Ultra Slim Folding Pocket Bluetooth Keyboard",
+    category: "keyboard",
+    price: 1900.00,
+    oldPrice: 2220,
+    images: [
+      "https://i.imgur.com/62oIbHq.png",
+      "https://i.imgur.com/r9Calzu.png",
+      "https://i.imgur.com/5f8be0U.png",
+      "https://i.imgur.com/kombrkQ.png"
+    ],
+    description: `Brand: GearUP.
+Type: Bluetooth-Compatible Wireless.
+Application: Smart Phone , Desktop, Laptop, Tablet.
+Keyboard Standard: 66 keys.
+Language: English.
+Operation Style: Capacitive.
+The effective range of operation: 10m.
+Continuous operation: ≥ 30 hours.
+Support system: for iOS/Android/Windows.
+Charging duration: <2 hours.
+Lithium battery capacity: 140 mAh.
+Key lifespan: >3 million times.
+Standby duration: ≥ 150 days.
+Standby current: 0.3 mA.
+Modulation method: GFSK.
+Working voltage: 3.0-4.2V.
+Packaging weight: 246g.
+Product size: 282.00×97.00×17.25mm/11.1×3.82×0.68inch.
+Made in China`,
+    stock: 18,
+    badge: "Free Gift"
+  }  
    
 ];
 

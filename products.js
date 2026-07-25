@@ -395,6 +395,34 @@ Mouse Pad: Anti-slip design.`,
     stock: 12,
     badge: "combo"
   },
+
+{
+    id: 16,
+    name: "SmarToools RB40 AA 1.5V 2600mWh Rechargeable Battery (4Pcs Set)",
+    category: "Battery",
+    price: 1000.00,
+    oldPrice: 1200,
+    images: [
+      "https://i.imgur.com/Jxemjbi.png",
+      "https://i.imgur.com/n84qARx.png",
+      "https://i.imgur.com/EepiCKM.png"
+    ],
+    description: `Brand Name: SMARTOOOLS.
+Model Number: RB40.
+Material: Lithium-ion battery.
+Charging Method: Type-C USB cable.
+Charging Voltage: 5V.
+Nominal Voltage: 1.5V.
+Typical Capacity: 1733mAh.
+Capacity: 2600mWh.
+Dimensions: Diameter 13.7mm - 14.5mm, Height 49.5mm - 50.5mm.
+Weight: 18.2(+-0.5)g.
+Charging Time: 2 hours (+-0.5).
+LED Indicators: Blink when charging, Stay on when fully charged.
+Protection: Short-circuited / over-flowed / over-charged / over-discharged protection YES.`,
+    stock: 24,
+    badge: "Hot"
+  },   
    
 ];
 

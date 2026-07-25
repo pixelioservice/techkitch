@@ -378,7 +378,23 @@ Product Size: 5.5 x 5.5 x 13.2cm.
     badge: "hot"
   },
 
-
+{
+    id: 15,
+    name: "Fantech P31 Keyboard, Mouse & Mousepad Combo",
+    category: "Keyboard",
+    price: 2300,
+    oldPrice: 2500,
+    images: [
+      "https://i.imgur.com/dh9DY23.png",
+      "https://i.imgur.com/4QNUPUa.png"
+    ],
+    description: `Model: Fantech P31.
+Keyboard: Backlit floating-keys multimedia gaming, 104 keys, 26 keys anti-ghosting, 10 million keystroke lifecycle, 100Hz ultra polling rate, Dimensions: 466 × 155 × 42 mm.
+Mouse: On-the-fly adjustable DPI (200-8000), Huano 5 million clicks lifetime, Silicon rubber roller, 4-color RGB lighting, 60 IPS / 20G acceleration, 125Hz polling rate, 1.8m nylon braided cable, Dimensions: 128 × 68 × 41 mm.
+Mouse Pad: Anti-slip design.`,
+    stock: 12,
+    badge: "combo"
+  },
    
 ];
 

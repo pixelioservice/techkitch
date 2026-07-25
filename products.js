@@ -423,6 +423,34 @@ Protection: Short-circuited / over-flowed / over-charged / over-discharged prote
     stock: 24,
     badge: "Hot"
   },   
+
+   {
+    id: 17,
+    name: "SmarToools RB40 AAA 1.5V 750 mWh Rechargeable Battery (4Pcs Set)",
+    category: "Battery",
+    price: 880.00,
+    oldPrice: 1000,
+    images: [
+      "https://i.imgur.com/BcoSaNw.jpeg",
+      "https://i.imgur.com/x7co9At.jpeg",
+      "https://i.imgur.com/bSVvf16.jpeg"
+    ],
+    description: `Model Number: RB40.
+Type: AAA.
+Material: Lithium-ion battery.
+Charging Method: Type-C USB cable.
+Charging Voltage: 5V.
+Nominal Voltage: 1.5V.
+Typical Capacity: 400mAh.
+Capacity: 750mWh.
+Dimensions: Diameter 9.8mm - 10.5mm, Height 43.5mm - 44.5mm.
+Weight: 6.9(+-0.5)g.
+Charging Time: 2 hours (+-0.5).
+LED Indicators: Blink when charging, Stay on when fully charged.
+Protection: Short-circuited / over-flowed / over-charged / over-discharged protection YES.`,
+    stock: 16,
+    badge: "Hot"
+  },
    
 ];
 

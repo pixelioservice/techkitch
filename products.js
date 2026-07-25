@@ -222,7 +222,7 @@ Connection: USB 2.0 wired`,
 {
     id: 9,
     name: "GearUP Rounded Side Design Router Stand (Gray Colour)",
-    category: "acessories",
+    category: "accessories",
     price: 350.00,
     oldPrice: 480,
     images: [

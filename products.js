@@ -451,6 +451,52 @@ Protection: Short-circuited / over-flowed / over-charged / over-discharged prote
     stock: 16,
     badge: "Hot"
   },
+   {
+  id: 18,
+  name: "SmarToools RB20 AAA 1.5V 750 mWh Rechargeable Battery (2 Pcs Set)",
+  category: "Battery",
+  price: 650.00,
+  oldPrice: 880,
+  images: [
+    "https://i.imgur.com/ouXqqCZ.jpeg",
+    "https://i.imgur.com/nLEN45B.jpeg"
+  ],
+  description: `Brand Name: SMARTOOOLS.
+Model Number: RB20 AAA.
+Material: Lithium-ion battery.
+Charging Method: Type-C usb cable.`,
+  stock: 17,
+  badge: "Hot"
+},
+
+   {
+  id: 19,
+  name: "SmarToools RB20 AA 1.5V 2600mWh Rechargeable Battery ( 2 Pcs Set)",
+  category: "Battery",
+  price: 700.00,
+  oldPrice: 890,
+  images: [
+    "https://i.imgur.com/RpBKQ3f.jpeg"
+  ],
+  description: `Brand Name: SMARTOOOLS.
+Model Number: RB20.
+Material: Lithium-ion battery.
+Charging Method: Type-C USB cable.
+Charging Voltage: 5V.
+Nominal Voltage: 1.5V.
+Typical: 1733mAh.
+Capacity: 2600mWh.
+Diameter: Min 13.7mm, Max 14.5mm.
+Height: Min 49.5mm, Max 50.5mm.
+Weight: 18.2(+-0.5)g.
+Charging time: 2 hours (+-0.5).
+LED Indicators: Blink when charging, Stay on when fully charged.
+Short-circuited/over-flowed/over-charged/over-discharged protection: YES.`,
+  stock: 11,
+  badge: "Hot"
+},
+
+
    
 ];
 

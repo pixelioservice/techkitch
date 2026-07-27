@@ -496,7 +496,25 @@ Short-circuited/over-flowed/over-charged/over-discharged protection: YES.`,
   badge: "Hot"
 },
 
-
+{
+  id: 20,
+  name: "Arctic Air Ultra 3 In 1 Evaporative Air Cooler",
+  category: "Air Cooler",
+  price: 1100.00,
+  oldPrice: 1500,
+  images: [
+    "https://i.imgur.com/hwVPjhQ.jpeg",
+    "https://i.imgur.com/HlOSKqP.jpeg"
+  ],
+  description: `Easy Top Fill Water Tank.
+Multi-Directional Air Vent.
+LED Night Light Control.
+Long-Lasting Cooling.
+Transforms Hot Dry Air.
+Eco-Friendly and Space-Saving.`,
+  stock: 15,
+  badge: "Hot"
+},
    
 ];
 
